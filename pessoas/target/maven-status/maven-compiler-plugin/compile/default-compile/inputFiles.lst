@@ -1,0 +1,17 @@
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/spec/PessoaSpec.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/mapper/PessoasMapper.java
+/home/lucas/Downloads/pessoas/src/main/java/repository.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/dto/PessoaResponseDTO.java
+/home/lucas/Downloads/pessoas/src/main/java/mapper.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/exception/GlobalExceptionHandler.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/controller/PessoaController.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/exception/NotFoundException.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/dto/PessoaRequestDTO.java
+/home/lucas/Downloads/pessoas/src/main/java/service.java
+/home/lucas/Downloads/pessoas/src/main/java/dto.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/service/PessoaService.java
+/home/lucas/Downloads/pessoas/src/main/java/dto/java/pessoa.java
+/home/lucas/Downloads/pessoas/src/main/java/PessoasApplication.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/repository/PessoaRepository.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/exception/BusinessException.java
+/home/lucas/Downloads/pessoas/src/main/java/com/exemplo/pessoas/entity/Pessoa.java
